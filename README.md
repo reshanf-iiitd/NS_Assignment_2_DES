@@ -1,2 +1,2 @@
 # NS_Assignment_2_DES   
-DES Impleentation in python
+DES Implementation in python with GUI 
